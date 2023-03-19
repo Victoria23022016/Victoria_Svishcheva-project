@@ -1,2 +1,1 @@
-# Victoria_Svishcheva-project
-Библиотека компонент
+общие для всего проекта CSS-файлы
